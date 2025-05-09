@@ -3,11 +3,11 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    color: #333;
+    color: #235037;
 }
 
 header {
-    background-color: #fff;
+    background-color: #f4f4f4;
     padding: 20px;
     display: flex;
     justify-content: space-between;
@@ -57,7 +57,7 @@ main {
 
 .left-panel {
     padding: 30px;
-    background-color: #fff;
+    background-color: #1d944f;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     display: flex;
@@ -67,14 +67,14 @@ main {
 
 .left-panel h2 {
     font-size: 2.5em;
-    color: #222;
+    color: #6dd358;
     margin-bottom: 15px;
 }
 
 .left-panel p {
     line-height: 1.6;
     margin-bottom: 10px;
-    color: #555;
+    color: #9b3f3f;
 }
 
 .buttons button {
@@ -87,17 +87,17 @@ main {
 }
 
 .urban-stories {
-    background-color: #e91e63; /* Ejemplo de color */
+    background-color: #1ee98a; /* Ejemplo de color */
     color: #fff;
 }
 
 .participate {
-    background-color: #00bcd4; /* Ejemplo de color */
+    background-color: #1ee98a; /* Ejemplo de color */
     color: #fff;
 }
 
 .lorem-ipsum {
-    background-color: #4caf50; /* Ejemplo de color */
+    background-color: #1ee98a; /* Ejemplo de color */
     color: #fff;
 }
 
